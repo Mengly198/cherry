@@ -1,1 +1,2 @@
-print("trying boss")
+print("hello world")
+print("project ready")
